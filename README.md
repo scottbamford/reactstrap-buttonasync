@@ -3,7 +3,7 @@ Reactstrap Button with support that will disable itself and optionally show diff
 
 ## Installation
 
-Install react-use-async-callback locally within your project folder, like so:
+Install with npm:
 
 ```shell
 npm install reactstrap-buttonasync

@@ -1,6 +1,6 @@
 {
   "name": "reactstrap-buttonasync",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Reactstrap Button with support that will disable itself and optionally show different children when isExecuting is true (usually during an async task).",
   "main": "dist/lib/commonjs/index.js",
   "module": "dist/lib/esm/index.js",
